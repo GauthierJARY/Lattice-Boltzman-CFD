@@ -24,8 +24,6 @@ Investigates flow within a moving cavity under the influence of shear flow, show
 
 Accompanying Jupyter notebooks (*.ipynb) are provided for each study case. These notebooks serve as self-explanatory guides, detailing the implementation, execution, and analysis of each case.
 
-[Insert citation details here]
-
 ### Acknowledgments
 Simon Marie and Henri Guisnet
 
